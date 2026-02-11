@@ -1,6 +1,6 @@
 Here’s a clean, polished, GitHub‑ready **README.md** for your Teachable Machine model.  
 I pulled the technical details directly from the model page you shared  and expanded it into a professional, developer‑friendly format.
-
+ngd
 ---
 
 # Teachable Machine Image Classification Model  
